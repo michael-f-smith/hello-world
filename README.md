@@ -1,3 +1,2 @@
 # hello-world
-Just another repository
-Learning to utilize github. Hello world.
+Another repository to better learn to utilize github. Hello world.
